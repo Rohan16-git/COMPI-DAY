@@ -1,0 +1,25 @@
+.navdiv{
+
+    display: flex;
+    padding: 100px;
+    padding-right:10px;
+    padding-bottom: 100%;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    height: auto;
+}
+
+.ITEM{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:40px;
+    text-transform: uppercase;
+}
+
+.logo{
+    
+}
